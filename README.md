@@ -1,4 +1,4 @@
 Proyecto de Adivinaza
 -Graficas con ilustraitor
--HTNL, CCS
+-HTML, CCS
 -Incorporando Bootstrap y JavaScrip
